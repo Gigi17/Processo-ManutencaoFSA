@@ -1,3 +1,3 @@
 # Processo-ManutencaoFSA
 
-Processo de manutenção desenvolvido pelos alunos da disciplina de Projeto Integrador para ser utilizado nas manutenções feitas nos sistemas da Fabrica de Software Acadêmica do IFSP-PEP.
+Pagina web do processo de manutenção elaborado pelos alunos da disciplina de Projeto Integrador, destinado a ser aplicado nas operações de manutenção dos sistemas da Fabrica de Software Acadêmica do IFSP-PEP.
