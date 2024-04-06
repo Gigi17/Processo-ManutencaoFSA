@@ -196,6 +196,12 @@ a:hover {
     height: 35px;
 }
 
+#download {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
 .button {
     padding: 10px 25px;
     display: inline-block;
